@@ -1,0 +1,6 @@
+{
+  "http://127.0.0.1:3008/service/app.js": { "integrity": "sha512-WQQSdsv6uy1ObFoeUVyKgOO0VJcsvBabIjyALkzNjZlVnkINFrNnkeubXEyuP2EOMOHtHxqiSlZyiBGG9G1EPw==", "contentType": "application/javascript; charset=UTF-8" },
+  "http://localhost:3008/service/app.js": { "integrity": "sha512-1DWVP3niVvWlxxi5Gj5rSYjkkHQnXWhwqItYl1IA4WM37SJdtJJdUqT4Bs9XMnTR4pj1qC7isSLkkjIfoQzMig==", "contentType": "application/javascript; charset=UTF-8" },
+  "http://localhost:3008/service/app.js?1=2": { "integrity": "sha512-s9SCnN4AjDiZqqOJ6c95GXD2bd+UnwUG3klTPrkyc3Ps1FaaEW9ihd8+kDbpfb4X7WUDvInZEbEGzPz/DEDThw==", "contentType": "application/javascript; charset=UTF-8" },
+  "version": 1
+}

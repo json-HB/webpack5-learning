@@ -1,0 +1,13 @@
+@import "./tailwind.css";
+.app-container {
+	padding: 5px;
+	border: 1px solid #ccc;
+}
+
+.red {
+	color: red;
+}
+
+body {
+	background: white;
+}
